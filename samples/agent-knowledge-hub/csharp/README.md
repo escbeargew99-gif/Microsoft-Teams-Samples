@@ -1,3 +1,4 @@
+
 ---
 page_type: sample
 description: Contoso Knowledge Hub - AI Academic & Career Guidance Agent.
